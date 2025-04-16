@@ -1,0 +1,14 @@
+# nb_01_gym_env.ipynb
+
+jupyterlab
+swig
+gymnasium[box2d]
+
+# nb_01_gym_env.ipynb
+
+stable-baselines3
+tqdm
+rich
+ipywidgets
+
+
