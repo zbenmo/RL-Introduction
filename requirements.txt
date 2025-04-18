@@ -11,7 +11,16 @@ tqdm
 rich
 ipywidgets
 
-# ..
+# nb_03_MsPacman.ipynb
 
 ale_py
 gymnasium[other]
+
+# nb_04..
+
+minigrid
+
+
+# ...
+
+pettingzoo[classic]
