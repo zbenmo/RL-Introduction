@@ -4,11 +4,14 @@ jupyterlab
 swig
 gymnasium[box2d]
 
-# nb_01_gym_env.ipynb
+# nb_02_solve_with_sb3.ipynb
 
 stable-baselines3
 tqdm
 rich
 ipywidgets
 
+# ..
 
+ale_py
+gymnasium[other]
