@@ -16,11 +16,14 @@ ipywidgets
 ale_py
 gymnasium[other]
 
-# nb_04..
+# nb_04_FrozenLake_wrappers.ipynb
 
-minigrid
+pandas
 
+# nb_05_MontyHall.ipynb
 
-# ...
+matplotlib
+
+# nb_06_Chess_from_PZ.ipynb
 
 pettingzoo[classic]
