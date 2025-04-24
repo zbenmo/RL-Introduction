@@ -28,14 +28,8 @@ matplotlib
 
 pettingzoo[classic]
 
-#
+# nb_07_CartPole_sb3.ipynb
 
 turingpoint
-
-#
-
-#marimo
-
+torch
 mermaid-python
-#nb-mermaid
-
