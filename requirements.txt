@@ -27,3 +27,15 @@ matplotlib
 # nb_06_Chess_from_PZ.ipynb
 
 pettingzoo[classic]
+
+#
+
+turingpoint
+
+#
+
+#marimo
+
+mermaid-python
+#nb-mermaid
+
